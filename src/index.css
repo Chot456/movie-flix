@@ -26,6 +26,7 @@ code {
     overflow-y: hidden;
     overflow-x: scroll;
     padding: 20px;
+    cursor: pointer;
 }
 
 .row__posters::-webkit-scrollbar {
@@ -134,7 +135,7 @@ code {
 .nav__logo {
     position: fixed;
     left: 20px;
-    width: 80px;
+    width: 120px;
     object-fit: contain;
 }
 
