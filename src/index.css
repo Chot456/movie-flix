@@ -13,7 +13,7 @@ code {
 }
 
 .App {
-    background-color: #111;
+    background-color: #240e26;
 }
 
 .row {
@@ -109,7 +109,7 @@ code {
         180deg,
         transparent,
         rgba(37, 37, 37, 0.61),
-        #111
+        #240e26
     );
 }
 
